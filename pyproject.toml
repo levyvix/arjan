@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+    "mypy>=1.13.0",
     "pylint>=3.3.1",
     "pytest>=8.3.3",
 ]
